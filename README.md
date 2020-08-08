@@ -5,12 +5,12 @@
 # Proffy | Sua Plataforma de estudos online.
 
 
-Projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)**!!!
+Projeto desenvolvido durante a Next Level Week, realizada pela **[@Rocketseat](https://github.com/Rocketseat)**!!!
 
 ## 🖥 Preview 
 
 <p align="center">
-  <img alt="Screen" src="img/finalApp.png" width="100%">
+  <img alt="Screen" src="img/finalApp.png" width="90%">
 </p>
 
 ## 🔧 Como instalar e utilizar
