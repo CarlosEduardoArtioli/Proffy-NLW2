@@ -2,9 +2,8 @@
     <img alt="Logo Proffy" src="img/logo.png" width="250px" />
 </h1>
 
-<div align="center">
 # Proffy | Sua Plataforma de estudos online.
-</div>
+
 
 Projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)**!!!
 
